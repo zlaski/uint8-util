@@ -41,7 +41,7 @@
   "types": "./index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ThaUnknown/uint8-util.git"
+    "url": "git+https://github.com/zlaski/uint8-util.git"
   },
   "files": ["_node.js", "browser.js", "util.js", "index.d.ts"],
   "keywords": [
@@ -53,12 +53,12 @@
     "tohex",
     "tostring"
   ],
-  "author": "ThaUnknown",
+  "author": "zlaski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ThaUnknown/uint8-util/issues"
+    "url": "https://github.com/zlaski/uint8-util/issues"
   },
-  "homepage": "https://github.com/ThaUnknown/uint8-util#readme",
+  "homepage": "https://github.com/zlaski/uint8-util#readme",
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
